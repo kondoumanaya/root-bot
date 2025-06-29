@@ -22,7 +22,7 @@ marshmallow==4.0.0                       # pip: 4.0.0
 mdurl==0.1.2                             # pip: 0.1.2
 multidict==6.4.4                         # pip: 6.4.4
 mypy-extensions==1.0.0                   # pip: 1.0.0
-mypy==1.16.0                             # pip: 1.16.0
+mypy==1.16.1                             # pip: 1.16.0
 numpy==2.3.0                             # pip: 2.3.0
 paho-mqtt==2.1.0                         # pip: 2.1.0
 pandas==2.3.0                            # pip: 2.3.0
@@ -76,7 +76,7 @@ marshmallow==4.0.0                       # conda: 4.0.0 (pypi)
 marshmallow-dataclass==8.7.1             # conda: 8.7.1 (pypi)
 mdurl==0.1.2                             # conda: 0.1.2 (pypi)
 multidict==6.4.4                         # conda: 6.4.4 (pypi)
-mypy==1.16.0                             # conda: 1.16.0 (pypi)
+mypy==1.16.1                             # conda: 1.16.0 (pypi)
 mypy-extensions==1.0.0                   # conda: 1.0.0 (pypi)
 ncurses==6.5                             # conda: 6.5 (conda-forge)
 numpy==2.3.0                             # conda: 2.3.0 (pypi)
